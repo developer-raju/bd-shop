@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Hooman Azmi",
+    "para": "Hooman was born and raised in Indonesia, North Way Indonesia He graduated from the University of Indonesia, where he completed is bachelor’s degree. His admission to the State Bar of London took place on the 10st of April, 1983.",
+    "email": " hooman@hospitalplus.com",
+    "phone": "+1 301-230-8925",
+    "image": "https://i.ibb.co/s1QY4nS/Cheerful-self-assured-prosperous-male-enterpreneur-has-pleased-expression-dressed-formally-happy-to.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kathryn Wood",
+    "para": "Kathryn was born and raised in Indonesia, North Way Indonesia He graduated from the University of Indonesia, where he completed is bachelor’s degree. His admission to the State Bar of London took place on the 10st of April, 1983.",
+    "email": " kathryn@hospitalplus.com",
+    "phone": " +1 972-769-9644",
+    "image": "https://i.ibb.co/SRMCcdh/Handsome-international-man-Businessman-working-in-a-cafe-Guy-with-a-beard.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Peter Parker",
+    "para": "Parker was born and raised in UK, North Way Australia He graduated from the University of British, where he completed is bachelor’s degree. His admission to the State Bar of London took place on the 10st of April, 1953.",
+    "email": "parker@hospitalplus.com",
+    "phone": "1-8990-9855",
+    "image": "https://i.ibb.co/w41WYhV/Portrait-of-a-joyful-young-man-in-white-shirt-pointing-two-fingers-away-at-copy-space-while-standing.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Veranda Tanumihardja",
+    "para": "Veranda was born and raised in Jakarta, Indonesia. He graduated from the University of Singapore, where he completed is bachelor’s degree. His admission to the State Bar of California took place on the 25th of November, 1985.",
+    "email": "veranda@hospitalplus.com",
+    "phone": " 1--8700-9340",
+    "image": "https://i.ibb.co/5YjxXJB/mand-holding-cup.jpg"
+  }
+]
